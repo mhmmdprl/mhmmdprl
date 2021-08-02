@@ -19,7 +19,7 @@
 </a>
 </a>
 </a>
- <a href = "mailto: mhmmdprl@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+
 </p>
 </p>
 
