@@ -3,9 +3,7 @@
 </p>
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
+
  <p align="center">
 <img src="https://img.shields.io/badge/Age-28-blue" />
   <img src="https://img.shields.io/badge/Focus-Sowftware%20Development-brightgreen" />
